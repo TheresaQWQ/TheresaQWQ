@@ -1,10 +1,12 @@
 ### Hi there 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=TheresaQWQ&show_icons=true&title_color=fff&icon_color=87939A&text_color=CCC&bg_color=3C3F41" alt="TheresaQWQ's github stats"/>
 Just a pigeon
 
-![Stats about my GitHub profile](https://github-readme-stats.vercel.app/api?username=TheresaQWQ&show_icons=true&title_color=fff&icon_color=87939A&text_color=CCC&bg_color=3C3F41)
-<br/>
-![Stats about my GitHub profile](https://github-readme-stats.vercel.app/api/top-langs/?username=TheresaQWQ&show_icons=true&title_color=fff&icon_color=87939A&text_color=CCC&bg_color=3C3F41)
+---
+
+- 🌱 I’m currently learning java (minecraft develop)
+- 🔭 I’m currently working on my home
 
 <!--
 **TheresaQWQ/TheresaQWQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
