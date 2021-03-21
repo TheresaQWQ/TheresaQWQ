@@ -5,7 +5,6 @@ Just a pigeon
 
 ---
 
-- 🌱 I’m currently learning java (minecraft develop)
 - 🔭 I’m currently working on my home
 
 <!--
