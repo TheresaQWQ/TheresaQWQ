@@ -2,7 +2,9 @@
 
 <div>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=TheresaQWQ&show_icons=true&title_color=fff&icon_color=87939A&text_color=CCC&bg_color=3C3F41" alt="TheresaQWQ's github stats"/>
-Just a pigeon
+
+- Just a pigeon
+- Location: 🕊️Pigeon planet
 
 ---
 
