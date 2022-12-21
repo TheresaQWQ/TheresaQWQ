@@ -8,14 +8,6 @@
 
 ---
 
-<div align="center">
-<a href="https://theresa.network"><img width="120px" src="https://theresa.network/logo.svg" alt="Theresa Network"/></a>
-</div>
-
-</div>
-
----
-
 <div>
 
 ### ⚡一些有意思的 项目/站点
