@@ -31,3 +31,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### WakaTime~
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ed49b002-1a6c-4f7a-98a6-f8314896f1ef/5b811985-626f-4bc1-9104-f1efcecbbc37.png" /></a>
