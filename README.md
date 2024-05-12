@@ -11,7 +11,7 @@
 <div>
 
 ### ⚡一些有意思的 项目/站点
-- [LiteRead](https://r.imoe.xyz) 极简小说搜索/阅读站（需要配合浏览器书签功能使用）
+- [也许是个主页](https://imoe.xyz)
 - [Web2Article](https://github.com/TheresaQWQ/Web2Article) 网页正文提取，支持提取小说页面中的上/下一页链接等信息
 - [BroadcastOnAirDanmaku](https://github.com/TheresaQWQ/BroadcastOnAirDanmaku) 帮朋友写的B站直播间弹幕姬，用于展会/表演等场景
 
